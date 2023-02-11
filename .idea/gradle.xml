@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Simple Banking System" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../Simple Banking System" />
+            <option value="$PROJECT_DIR$/../Simple Banking System/Simple Banking System/task" />
+            <option value="$PROJECT_DIR$/../Simple Banking System/Simple Banking System/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/../Simple Banking System/Simple Banking System/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/../Simple Banking System/Simple Banking System/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/../Simple Banking System/Simple Banking System/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/../Simple Banking System/Simple Banking System/task/build/test-results" />
+            <option value="$PROJECT_DIR$/../Simple Banking System/Simple Banking System/task/build/tmp" />
+            <option value="$PROJECT_DIR$/../Simple Banking System/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
